@@ -1,0 +1,72 @@
+body {
+  background-image: linear-gradient(rgb(28, 35, 45), rgba(24, 26, 49, 0.5)), url(https://pbs.twimg.com/media/DKrINR3WAAEGy03?format=jpg&name=4096x4096);
+  background-size: cover;
+  background-position: center;
+  color: aliceblue;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#main-p, .mainlist, #tribute-info {
+  text-align: center;
+}
+
+#title {
+  font-size: 3rem;
+  text-align: center; 
+  background-image: url(https://pbs.twimg.com/media/DKrINR3WAAEGy03?format=jpg&name=4096x4096);
+  background-size: 200px;
+  background-clip: text;
+  color: transparent;
+}
+
+#img-div {
+  display: block;
+  justify-content: center;
+  align-items: center; 
+}
+
+#image {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  border: solid 5px rgb(53, 61, 78);
+  border-radius: 2rem;
+  margin: 0 auto;
+  overflow-clip-margin: content-box;
+  overflow: clip;
+}
+#img-caption {
+  text-align: center;
+}
+.border {
+  border: 2px solid white;
+  margin: 25px 20% 0 20%; 
+}
+
+#main-p {
+  font-weight: 600;
+  font-size: 1.2rem;
+  border: 1px solid white;
+  margin: 0 15%; 
+  padding: 2%;
+  border-radius: 2%;
+}
+
+a {
+  display: block; 
+  text-decoration: none;
+  color: white;
+  margin: 15px auto; 
+  padding: 5px 10px;
+  border: 1px solid white;
+  border-radius: 5px;
+  transition: background-color 0.3s, color 0.3s;
+  text-align: center; 
+  width: fit-content; 
+}
+
+
+a:hover {
+  background-color: white;
+  color: black;
+}
