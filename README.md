@@ -15,8 +15,8 @@ Interactive Demos: Live demos or screenshots to showcase the projects in action.
 
 How to Use:
 
-Explore the repository to discover different projects.
-Click on individual project folders to access their source code and documentation.
-Feel free to fork the repository or reach out for collaboration opportunities.
-If you have any feedback or questions, don't hesitate to get in touch!
-Thank you for visiting my Frontend Portfolio. I'm excited to share my passion for front-end development and look forward to your exploration of the projects showcased here.
+1. Explore the repository to discover different projects.
+2. Click on individual project folders to access their source code and documentation.
+3. Feel free to fork the repository or reach out for collaboration opportunities.
+4. If you have any feedback or questions, don't hesitate to get in touch!
+5. Thank you for visiting my Frontend Portfolio. I'm excited to share my passion for front-end development and look forward to your exploration of the projects showcased here.
