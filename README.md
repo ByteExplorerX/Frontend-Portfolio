@@ -4,10 +4,15 @@ Welcome to my Frontend Portfolio! This repository serves as a showcase of my fro
 What You'll Find:
 
 Web Projects: Various web applications and sites developed using modern front-end technologies.
+
 Responsive Designs: Demonstrations of responsive design techniques to ensure optimal viewing experiences across devices.
+
 UI/UX Demonstrations: Showcase of intuitive user interfaces and engaging user experiences.
+
 Code Samples: Accessible source code for each project, allowing for inspection, learning, and potential collaboration.
+
 Interactive Demos: Live demos or screenshots to showcase the projects in action.
+
 How to Use:
 
 Explore the repository to discover different projects.
