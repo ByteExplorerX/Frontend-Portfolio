@@ -187,3 +187,44 @@ body{
         opacity: 1;
     }
 }
+
+@media only screen and (max-width: 767px) {
+    .container {
+        width: 65vw; /* Adjusted for responsiveness */
+        max-width: auto; /* Removed max-width for smaller screens */
+    }
+
+    .search-box button {
+        height: 40px; /* Adjust as needed */
+        width: 40px; /* Adjust as needed */
+        font-size: 18px; /* Adjust as needed */
+    }
+
+    .weather-box img {
+        width: 50%; /* Adjust as needed */
+    }
+
+    .weather-box .temperature {
+        font-size: 3rem; /* Adjust as needed */
+    }
+
+    .weather-box .temperature span {
+        font-size: 1.2rem; /* Adjust as needed */
+    }
+
+    .weather-box .description {
+        font-size: 18px; /* Adjust as needed */
+    }
+
+    .weather-details i {
+        font-size: 22px; /* Adjust as needed */
+    }
+
+    .weather-details span {
+        font-size: 18px; /* Adjust as needed */
+    }
+
+    .weather-details p {
+        font-size: 12px; /* Adjust as needed */
+    }
+}
